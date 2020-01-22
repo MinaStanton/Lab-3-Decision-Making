@@ -1,0 +1,11 @@
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab3_DecisionMaking.exe
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab3_DecisionMaking.deps.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab3_DecisionMaking.runtimeconfig.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab3_DecisionMaking.runtimeconfig.dev.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab3_DecisionMaking.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab3_DecisionMaking.pdb
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab3_DecisionMaking.csprojAssemblyReference.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab3_DecisionMaking.AssemblyInfoInputs.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab3_DecisionMaking.AssemblyInfo.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab3_DecisionMaking.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\DailyExercise\Lab3_DecisionMaking\Lab3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab3_DecisionMaking.pdb
